@@ -1,0 +1,8 @@
+[project]
+name = "samcoin"
+
+[contracts.samcoin]
+path = "contracts/samcoin.clar"
+
+[repl]
+# You can configure accounts and settings here if needed.
